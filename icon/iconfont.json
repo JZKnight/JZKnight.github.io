@@ -1,0 +1,114 @@
+{
+  "id": "1672004",
+  "name": "网易云音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12556299",
+      "name": "网易云音乐",
+      "font_class": "wangyiyunyinle",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12576148",
+      "name": "网易云音乐-01",
+      "font_class": "wangyimusic",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "239487",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "422541",
+      "name": "首页_播放＃ffffff透明度80%",
+      "font_class": "shouyebofangffffff",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "641182",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "719663",
+      "name": "耳机",
+      "font_class": "1",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "1449397",
+      "name": "历史",
+      "font_class": "lishi",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "2362677",
+      "name": "SQ",
+      "font_class": "SQ",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2504584",
+      "name": "叉",
+      "font_class": "cha",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2872731",
+      "name": "叉",
+      "font_class": "cha1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "2927790",
+      "name": "方向 - 左",
+      "font_class": "fangxiangzuo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4535067",
+      "name": "方向 - 右",
+      "font_class": "fangxiangxia",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "5947631",
+      "name": "方向 - 左",
+      "font_class": "down",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7139574",
+      "name": "dianz",
+      "font_class": "dianz",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "7186725",
+      "name": "方向 - 右",
+      "font_class": "fangxiangyou",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    }
+  ]
+}
